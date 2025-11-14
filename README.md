@@ -21,7 +21,6 @@ O principal objetivo deste sistema é:
 -   Facilitar o acesso às informações por meio de uma interface simples
     e intuitiva.
 
-`<br>`{=html}
 
 ![Sistema de Controle de
 Estoque](https://github.com/renangfs/Oficina2DB/assets/61218420/5ac2fa59-d1da-4692-b787-55d6859e63f3)
