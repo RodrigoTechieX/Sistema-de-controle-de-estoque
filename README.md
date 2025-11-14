@@ -160,3 +160,16 @@ Execute:
 Este projeto é livre para uso educacional.
 
 ------------------------------------------------------------------------
+
+# 🤝 Contribuições
+
+Contribuições são bem-vindas!\
+Crie issues, envie sugestões ou abra pull requests.
+
+------------------------------------------------------------------------
+
+## 🧑‍💻 Autor
+
+**Rodrigo Ferreira da Silva Filho**  
+✉️ [contato.rodrigo.tech@gmail.com]<br>
+🔗 [https://www.linkedin.com/in/rodrigo-ferreira-325527272/]<br>
